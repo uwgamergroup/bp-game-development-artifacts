@@ -4,7 +4,7 @@
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Description**    | Based upon the statements collected during our interviews, we have identified nine practical components of long-term preservation of game development artifact collections for our best
 practices framework.
-| **Version**        | 1.1                                                                                                                                                                                             |
+| **Version**        | 1.0                                                                                                                                                                                             |
 | **Published Date** | 2024-12-12                                                                                                                                                                                          |
 | **Upload Date** | 2025-01-10                                                                                                                                                                                          |
 | **Language**       | eng                                                                                                                                                                                                 |
